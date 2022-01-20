@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @scobelwrite
+- 👀 I’m interested in developing games and websites
+- 🌱 I’m currently learning HTML and CSS5
+- 💞️ I’m looking to collaborate on game development
+- 📫 How to reach me in here :)
